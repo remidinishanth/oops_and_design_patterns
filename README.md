@@ -1,3 +1,5 @@
+[Archived] Refer https://github.com/remidinishanth/distributed_systems/tree/main/oops_and_design_patterns
+
 # oops_and_design_patterns
 
 ![image](https://github.com/remidinishanth/oops_and_design_patterns/assets/19663316/e8c94ba8-71a0-456e-bebc-fc14c28d3fa4)
